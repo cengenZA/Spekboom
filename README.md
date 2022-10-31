@@ -51,8 +51,8 @@ We used this gaming laptop:
 
 	* The ending of the config file defines basecalling mode. fast, hac (high accuracy) and sup (super accurate)
 	* `-r` means recursively going through all fast5 files in the subfolder structure.
-	* --compress_fastq gives gzip files rather than uncompressed fastq. 
-	* --device "cuda:0" activates GPU. Check in Task manager if your graphics card is actually in use. 
+	* `--compress_fastq` gives gzip files rather than uncompressed fastq. 
+	* `--device "cuda:0"` activates GPU. Check in Task manager if your graphics card is actually in use. 
  	
 
 		
